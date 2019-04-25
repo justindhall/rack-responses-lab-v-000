@@ -9,6 +9,6 @@ class Application
     else
       resp.write "Good Morning!"
     end
-    resp.finsh
+    resp.finish
   end
 end
